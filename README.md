@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently learning **React , Next.js , React Native**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** 
 
 
