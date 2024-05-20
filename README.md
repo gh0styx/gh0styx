@@ -4,7 +4,6 @@
  🌱 I’m currently learning **React , Next.js , React Native**
 
 
- <span>#OPENTOWORK</span>
 
 
 
